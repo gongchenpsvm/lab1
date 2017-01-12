@@ -16,3 +16,6 @@ Part b
 2. git log -p -3
 Part c
 Commit these 3 staged files
+
+Problem 3
+
